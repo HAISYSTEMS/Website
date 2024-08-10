@@ -3,7 +3,7 @@ import Carousel from 'react-bootstrap/Carousel';
 import banner from "../assets/hainis.jpg";
 import banner2 from "../assets/hainisTecnology.jpg";
 import banner3 from "../assets/haiTecnology.jpg";
-import {ReactTyped, Typed} from "react-typed";
+import {ReactTyped} from "react-typed";
 
 // Define the ExampleCarouselImage component directly within this file
 const ExampleCarouselImage = ({ imageSrc, text }) => (

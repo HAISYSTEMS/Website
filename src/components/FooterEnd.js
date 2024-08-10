@@ -1,5 +1,4 @@
 import { Container } from 'react-bootstrap';
-import Card from 'react-bootstrap/Card';
 
 function FooterEnd() {
   return (

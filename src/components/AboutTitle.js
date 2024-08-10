@@ -1,7 +1,5 @@
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
-import { FaCogs, FaRocket, FaHandshake } from 'react-icons/fa'; // Example icons for services
-
 function AboutTitle() {
   return (
     <Container>

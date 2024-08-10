@@ -8,7 +8,6 @@ import whatsapp from '../assets/hainis_whatsapp.png';
 import twitter from '../assets/hainis_twitter.png';
 import instagram from '../assets/hainis_instagram.png';
 import email from '../assets/hainis_email.png';
-import { Row } from 'react-bootstrap';
 
 export const NavBar = () => {
     const [activeLink, setActiveLink] = useState('home');

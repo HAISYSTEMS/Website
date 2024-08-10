@@ -20,7 +20,7 @@ function Footer() {
                         <div className="map-container">
                             <iframe
                                 title="Google Map"
-                                src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d3588.245281364129!2d32.547908376214465!3d-25.927169827248246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d-25.9294589!2d32.553604299999996!4m5!1s0x1ee69007066c5653%3A0x92c5ca071115a38!2sJardim%2C%20Maputo!3m2!1d-25.926218499999997!2d32.5471733!5e0!3m2!1sen!2smz!4v1723162204244!5m2!1sen!2smz"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d279.1581339297409!2d32.553613797203155!3d-25.929483242634422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee69bfcef7ec12b%3A0xf251b3c89c9ff2e0!2sHAI%20NATIONAL%20AND%20INTERNATIONAL%20SERVICES%2C%20LDA!5e1!3m2!1sen!2smz!4v1723290564615!5m2!1sen!2smz"
                                 width="100%"
                                 height="250"
                                 style={{ border: 0 }}

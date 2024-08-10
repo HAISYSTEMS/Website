@@ -12,11 +12,9 @@ import ProductsTitle from './components/ProductsTitle';
 import FooterEnd from './components/FooterEnd';
 
 
-
 function App() {
   useEffect(() => {
     const cursor = document.querySelector(".cursor");
-    const member = document.querySelector(".elemento");
     let timeout;
 
     // Function to handle mouse movements
