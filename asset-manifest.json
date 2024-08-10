@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.dd753eb2.css",
+    "main.js": "/Website/static/js/main.2fbfbf37.js",
+    "static/js/453.2161df0f.chunk.js": "/Website/static/js/453.2161df0f.chunk.js",
+    "static/media/hainisTecnology.jpg": "/Website/static/media/hainisTecnology.9da42f60e344d95dd1f2.jpg",
+    "static/media/hainis.jpg": "/Website/static/media/hainis.b28ace693aa7eceaf42e.jpg",
+    "static/media/haiTecnology.jpg": "/Website/static/media/haiTecnology.9d8ccef0cc275cc9dc83.jpg",
+    "static/media/service3.png": "/Website/static/media/service3.55da32e8ac98506331fe.png",
+    "static/media/service1.png": "/Website/static/media/service1.17df7ff8825517c43d5f.png",
+    "static/media/banner-bg.png": "/Website/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/service2.png": "/Website/static/media/service2.704278a590bb5e8cf596.png",
+    "static/media/logo.png": "/Website/static/media/logo.e08c35017be307237532.png",
+    "index.html": "/Website/index.html",
+    "main.dd753eb2.css.map": "/Website/static/css/main.dd753eb2.css.map",
+    "main.2fbfbf37.js.map": "/Website/static/js/main.2fbfbf37.js.map",
+    "453.2161df0f.chunk.js.map": "/Website/static/js/453.2161df0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd753eb2.css",
+    "static/js/main.2fbfbf37.js"
+  ]
+}
